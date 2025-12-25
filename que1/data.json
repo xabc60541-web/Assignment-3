@@ -1,0 +1,22 @@
+[
+    {
+        "id": 110,
+        "name": "Utkarsh",
+        "Department" : "Information Technology"
+    },
+    {
+        "id": 111,
+        "name": "Santosh",
+        "Department" : "Information Technology"
+    },
+    {
+        "id": 112,
+        "name": "Rushikesh",
+        "Department" : "Computer Science"
+    },
+    {
+        "id": 114,
+        "name": "Omkar",
+        "Department" : "Information Technology"
+    }
+]
